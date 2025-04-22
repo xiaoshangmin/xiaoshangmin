@@ -14,7 +14,8 @@
 |----------------|------------------------------|--------------------------------------------------------------------------|
 | **QuoteMaker** | Generated philosophical/funny quotes with one-click sharing  | ![QuoteMaker](https://img.shields.io/badge/QuoteMaker-8A2BE2?style=for-the-badge&logo=quote&logoColor=white) |
 | **IT-Tools**   | 50+ utilities (encoding/calculations/format conversion)  | ![IT-Tools](https://img.shields.io/badge/IT_Tools-00a1ff?style=for-the-badge&logo=tools&logoColor=white) |
-| **PDF Tools**  | PDF Merge/split/compress without software installation  | ![PDF Tools](https://img.shields.io/badge/PDF_Tools-6a5acd?style=for-the-badge&logo=adobeacrobatreader&logoColor=white) |
+| **ZeroPDF**  | PDF Merge/split/compress without software installation  | ![ZeroPDF](https://img.shields.io/badge/ZeroPDF-6a5acd?style=for-the-badge&logo=adobeacrobatreader&logoColor=white) |
 | **Image Tools**| Image Tools: Filters/cropping/compression with instant response  | ![Image Tools](https://img.shields.io/badge/Image_Tools-9370db?style=for-the-badge&logo=image&logoColor=white) |
+| **BG Remove**  | Remove image backgrounds in seconds with AI precision | ![BG Remove](https://img.shields.io/badge/BG_Remove-32CD32?style=for-the-badge&logo=magic&logoColor=white) |
 
 ---
