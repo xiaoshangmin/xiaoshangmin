@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">🚀 Hi, I'm Xiaoshangmin</h1>
 
-<!--
-**xiaoshangmin/xiaoshangmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">A developer focused on productivity tools and creative inspiration 👨‍💻</p>
 
-Here are some ideas to get you started:
+---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoshangmin&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaoshangmin&show_icons=true&count_private=true&theme=radical)
+
+### 🔗 **Project Navigation**
+> Quick access to my utility tools collection:
+
+| Tool           | Description                  | Direct Link                                                                 |
+|----------------|------------------------------|--------------------------------------------------------------------------|
+| **QuoteMaker** | Generated philosophical/funny quotes with one-click sharing  | ![QuoteMaker](https://img.shields.io/badge/QuoteMaker-8A2BE2?style=for-the-badge&logo=quote&logoColor=white) |
+| **IT-Tools**   | 50+ utilities (encoding/calculations/format conversion)  | ![IT-Tools](https://img.shields.io/badge/IT_Tools-00a1ff?style=for-the-badge&logo=tools&logoColor=white) |
+| **PDF Tools**  | PDF Merge/split/compress without software installation  | ![PDF Tools](https://img.shields.io/badge/PDF_Tools-6a5acd?style=for-the-badge&logo=adobeacrobatreader&logoColor=white) |
+| **Image Tools**| Image Tools: Filters/cropping/compression with instant response  | ![Image Tools](https://img.shields.io/badge/Image_Tools-9370db?style=for-the-badge&logo=image&logoColor=white) |
+
+---
