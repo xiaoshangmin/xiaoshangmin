@@ -13,9 +13,9 @@
 | Tool           | Description                  | Direct Link                                                                 |
 |----------------|------------------------------|--------------------------------------------------------------------------|
 | **QuoteMaker** | Generated philosophical/funny quotes with one-click sharing  | [![QuoteMaker](https://img.shields.io/badge/QuoteMaker-8A2BE2?style=for-the-badge&logo=quote&logoColor=white)](https://quotemaker.cc/) |
-| **IT-Tools**   | 50+ utilities (encoding/calculations/format conversion)  | [![IT-Tools](https://img.shields.io/badge/IT_Tools-00a1ff?style=for-the-badge&logo=tools&logoColor=white)](https://tools.wowyou.cc/) |
-| **ZeroPDF**  | PDF Merge/split/compress without software installation  | [![ZeroPDF](https://img.shields.io/badge/ZeroPDF-6a5acd?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://pdf.wowyou.cc/) |
-| **Image Tools**| Image Tools: Filters/cropping/compression with instant response  | [![Image Tools](https://img.shields.io/badge/Image_Tools-9370db?style=for-the-badge&logo=image&logoColor=white)](https://image.wowyou.cc/) |
-| **BG Remove**  | Remove image backgrounds in seconds with AI precision | [![BG Remove](https://img.shields.io/badge/BG_Remove-32CD32?style=for-the-badge&logo=magic&logoColor=white)](https://bgremove.wowyou.cc/) |
+| **Zero Tools**   | 50+ utilities (encoding/calculations/format conversion)  | [![Zero Tools](https://img.shields.io/badge/IT_Tools-00a1ff?style=for-the-badge&logo=tools&logoColor=white)](https://tools.wowyou.cc/) |
+| **Zero PDF**  | PDF Merge/split/compress without software installation  | [![Zero PDF](https://img.shields.io/badge/ZeroPDF-6a5acd?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://pdf.wowyou.cc/) |
+| **Zero Image**| Image Tools: Filters/cropping/compression with instant response  | [![Zero Image](https://img.shields.io/badge/Image_Tools-9370db?style=for-the-badge&logo=image&logoColor=white)](https://image.wowyou.cc/) |
+| **Zero BGRemove**  | Remove image backgrounds in seconds with AI precision | [![Zero BGRemove](https://img.shields.io/badge/BG_Remove-32CD32?style=for-the-badge&logo=magic&logoColor=white)](https://bgremove.wowyou.cc/) |
 
 ---
