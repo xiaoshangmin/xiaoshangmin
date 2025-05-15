@@ -12,10 +12,11 @@
 
 | Tool           | Description                  | Direct Link                                                                 |
 |----------------|------------------------------|--------------------------------------------------------------------------|
-| **QuoteMaker** | Generated philosophical/funny quotes with one-click sharing  | [![QuoteMaker](https://img.shields.io/badge/QuoteMaker-8A2BE2?style=for-the-badge&logo=quote&logoColor=white)](https://quotemaker.cc/) |
-| **Zero Tools**   | 50+ utilities (encoding/calculations/format conversion)  | [![Zero Tools](https://img.shields.io/badge/IT_Tools-00a1ff?style=for-the-badge&logo=tools&logoColor=white)](https://tools.wowyou.cc/) |
-| **Zero PDF**  | PDF Merge/split/compress without software installation  | [![Zero PDF](https://img.shields.io/badge/ZeroPDF-6a5acd?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://pdf.wowyou.cc/) |
-| **Zero Image**| Image Tools: Filters/cropping/compression with instant response  | [![Zero Image](https://img.shields.io/badge/Image_Tools-9370db?style=for-the-badge&logo=image&logoColor=white)](https://image.wowyou.cc/) |
-| **Zero BGRemove**  | Remove image backgrounds in seconds with AI precision | [![Zero BGRemove](https://img.shields.io/badge/BG_Remove-32CD32?style=for-the-badge&logo=magic&logoColor=white)](https://bgremove.wowyou.cc/) |
+| **Quote Maker** | Generated philosophical/funny quotes with one-click sharing  | [![Quote Maker](https://img.shields.io/badge/QuoteMaker-ff9800?style=for-the-badge&logo=quote&logoColor=white)](https://quotemaker.cc/) |
+| **Zero Tools**   | 50+ utilities (encoding/calculations/format conversion)  | [![Zero Tools](https://img.shields.io/badge/Zero_Tools-1ea54cFF?style=for-the-badge&logo=tools&logoColor=white)](https://tools.wowyou.cc/) |
+| **Zero PDF**  | PDF Merge/split/compress without software installation  | [![Zero PDF](https://img.shields.io/badge/ZeroPDF-7882ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://pdf.wowyou.cc/) |
+| **Zero Image**| Image Tools: Filters/cropping/compression with instant response  | [![Zero Image](https://img.shields.io/badge/Zero_Image-3b82f6?style=for-the-badge&logo=image&logoColor=white)](https://image.wowyou.cc/) |
+| **Zero BGRemove**  | Remove image backgrounds in seconds with AI precision | [![Zero BGRemove](https://img.shields.io/badge/Zero_BGRemove-000000?style=for-the-badge&logo=magic&logoColor=white)](https://bgremove.wowyou.cc/) |
+|**Zero Convert**| Free batch conversion tool for images, audio and documents | [![Zero Convert](https://img.shields.io/badge/Zero_Convert-3a88c3?style=for-the-badge&logo=convertio&logoColor=black)](https://nextbconvert.com/) |
 
 ---
