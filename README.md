@@ -18,5 +18,6 @@
 | **Zero Image**| Image Tools: Filters/cropping/compression with instant response  | [![Zero Image](https://img.shields.io/badge/Zero_Image-3b82f6?style=for-the-badge&logo=image&logoColor=white)](https://image.wowyou.cc/) |
 | **Zero BGRemove**  | Remove image backgrounds in seconds with AI precision | [![Zero BGRemove](https://img.shields.io/badge/Zero_BGRemove-000000?style=for-the-badge&logo=magic&logoColor=white)](https://bgremove.wowyou.cc/) |
 |**Zero Convert**| Free batch conversion tool for images, audio and documents | [![Zero Convert](https://img.shields.io/badge/Zero_Convert-3a88c3?style=for-the-badge&logo=convertio&logoColor=black)](https://nextbconvert.com/) |
+|**Femails**| 24h Anonymous Email | [![Femails](https://img.shields.io/badge/Femails-3a88c3?style=for-the-badge&logo=email&logoColor=black)](https://femails.win) |
 
 ---
