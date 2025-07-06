@@ -19,5 +19,6 @@
 | **Zero BGRemove**  | Remove image backgrounds in seconds with AI precision | [![Zero BGRemove](https://img.shields.io/badge/Zero_BGRemove-000000?style=for-the-badge&logo=magic&logoColor=white)](https://bgremove.wowyou.cc/) |
 |**Next BConvert**| Free Local Batch Converter for Images, Audio, and Documents | [![Next BConvert](https://img.shields.io/badge/Next_BConvert-3a88c3?style=for-the-badge&logo=convertio&logoColor=black)](https://nextbconvert.com/) |
 |**Femails**| 24h Anonymous Email | [![Femails](https://img.shields.io/badge/Femails-3a88c3?style=for-the-badge&logo=email&logoColor=black)](https://femails.win) |
+|**Soft Echo**| In Soft Echo Drift into calm.  | [![Quote Maker](https://img.shields.io/badge/Soft_Echo-ff9800?style=for-the-badge&logo=quote&logoColor=white)](https://softecho.wowyou.cc/) |
 
 ---
